@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.BitmapData;	import com.nocircleno.graffiti.tools.BrushType;	public class pencilTool extends makeupTool {						public function pencilTool() {			// constructor code			var clrMask = new pencil_mask();			super(new pencil_mask());			buildBrush(2,makeupTool.DEFAULT_COLOR,1,1,BrushType.ROUND);		}	}	}

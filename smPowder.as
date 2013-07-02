@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import com.nocircleno.graffiti.tools.BrushType;		public class smPowder extends makeupTool {						public function smPowder() {			// constructor code			super(new smPowder_mask());			this.buildBrush(35,DEFAULT_COLOR,0.6,1,BrushType.ROUND);		}	}	}

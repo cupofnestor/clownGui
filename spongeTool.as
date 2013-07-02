@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.BitmapData;	import com.nocircleno.graffiti.tools.BrushType;		public class spongeTool extends makeupTool {						public function spongeTool() {			// constructor code			super(new sponge_mask());			buildBrush(40,makeupTool.DEFAULT_COLOR,1,2,BrushType.DIAMOND);		}	}	}

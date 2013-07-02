@@ -1,0 +1,1 @@
+﻿package  {		import flash.display.MovieClip;	import com.nocircleno.graffiti.tools.BrushType;		public class mdBrush extends makeupTool {						public function mdBrush() {			// constructor code			super(new mdBrush_mask());			buildBrush(12,makeupTool.DEFAULT_COLOR,1,0.5,BrushType.ROUND);		}	}	}
