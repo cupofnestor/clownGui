@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <application xmlns="http://ns.adobe.com/air/application/3.4">
     <id>com.monadnock.clownGui</id>
-    <versionNumber>0.9.1</versionNumber>
+    <versionNumber>0.9.2</versionNumber>
     <filename>clownGui</filename>
     <description></description>
     <!-- To localize the description, use the following format for the description element.
